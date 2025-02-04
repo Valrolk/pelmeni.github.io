@@ -1,0 +1,59 @@
+main h1 {
+    text-align: center;
+}
+
+main img {
+    border: 5px solid black;
+    text-align: center;
+    margin: 5px;
+}
+
+header {
+    border: 5px solid LightPink;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+header b {
+    padding: 80px;
+    font-size: 80px; 
+}
+
+nav a {
+    background-color: Khaki;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 80px;
+    color: Maroon;
+    border: black solid 2px;
+}
+
+main p {
+    font-size: 30px;
+}
+
+main h2 {
+    font-size: 40px
+}
+
+h1 {
+    font-size: 50px;
+}
+
+main table {
+    text-align: center;
+    width: 900px;
+}
+
+main h1 {
+    background-color: Khaki;
+    border-radius: 10px;
+}
+
+main h2 {
+    background-color: Khaki;
+    border-radius: 5px;
+    text-align: center;
+}
