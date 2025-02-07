@@ -25,9 +25,13 @@ nav a {
     text-decoration: none;
     border-radius: 10px;
     padding: 5px;
-    margin: 80px;
+    margin: 50px;
     color: Maroon;
     border: black solid 2px;
+}
+
+nav {
+    margin: 80px;
 }
 
 main p {
